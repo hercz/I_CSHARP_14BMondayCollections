@@ -1,5 +1,7 @@
 **14B Week Monday Collections**
 
+[Codecool](https://codecool.hu/) school project.
+
 14B week task for Monday, related with collections.
 
 **Tasks:**
